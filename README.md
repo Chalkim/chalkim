@@ -4,7 +4,7 @@ This is **Chalkim**, and welcome to my github! ✨
 
 📫 How to reach me:
 - 📧 My E-mail: [jiangyi2012@outlook.com](mailto:jiangyi2012@outlook.com)
-- 🏠 My Blog: [https://chalkim.github.io/](https://chalkim.github.io/)
+- 🏠 My Blog: [https://chalkim.ga/](https://chalkim.ga/)
 
 <!--
 **Chalkim/chalkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
